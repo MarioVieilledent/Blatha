@@ -1,0 +1,866 @@
+[Cours 1 : L’organisation d’une entreprise]
+
+1. Accountancy: comptabilité, expertise comptable
+2. Accounting control: contrôle de la comptabilité
+3. Accounts Department : Service comptabilite
+4. To acquire/Buy out/Purchase : Acheter, acquerir
+5. To appoint/ assign to a position : nommer à un poste
+6. Appointment : Nomination, rendez-vous
+7. To be on the payroll/ staff : Faire partie du personnel salarié
+8. Board of directors : conseil d’administration
+9. Brainstorming session : réunion de réflexion informelle
+10. Buyout/ acquisition : Rachat d’entreprise
+11. CEO ( Chief executive officer )/ managing director : Directeur general
+12. CFO ( Chief financial officer ) : Directeur financier
+13. To chair a committee/ meeting : présider un comité/ une réunion
+14. Deputy manager/ assistant - manager : directeur adjoint
+15. Divestment : scission
+16. Downsizing : réduction d’effectifs
+17. Effective/ successful/efficient : performant
+18. Efficiency/ competitiveness : Efficacite, competitivite
+19. Facilities : outils de production
+20. Head office : Siege social
+21. To headquarter a company : établir le siège social d’une société
+22. Human resources (HR) Department : Direction des ressources humaines(DRH )
+23. Lean structure : Structure allegee
+24. Management accountant : Contrôleur de gestion
+25. Management audit : Contrôle de gestion
+26. Management operating system : Systeme integre de gestion
+27. To manufacture/ to produce : Fabriquer, produire
+28. Marketing( department / unit ) manager : Chef du service marketing
+29. To merge : Fusionner
+30. Mergers and acquisitions/ M & A : Fusions- acquisitions
+31. Middle/ Junior Manager : cadre moyen/ débutant
+32. Non-executive director: membre du conseil d’administration
+33. PR ( Public relations ) department : Service de la communication
+34. Premises : Locaux ( de la société )
+35. To promote : Promouvoir
+36. Purchasing manager : Directeur du service achats
+37. Rank and file : Personnel de base
+38. To resign, resignation : Demissionner, demission
+39. Restructuring : Restructuration, reorganization
+40. Rules and regulations : Regles, reglement
+41. To sell out : Revendre, vendre en totalité
+42. Senior/ executive manager : Cadre supérieur
+43. Senior staff : ensemble des cadres supérieurs
+44. Society : Association, société philanthropique
+45. Subsidiary : Filiale
+46. Team leader/ spirit : Chef/ esprit d'équipe
+47. To temp : Travailler en intérim
+48. Temporary worker : Travailleur intérimaire
+49. Top management/ Manager : Cadre(s) dirigeants(s)
+50. Trainee : Stagiaire
+51. Turnover of capital/ staff : Rotation des capitaux/ du personnel
+52. To upgrade : Revaloriser, améliorer
+53. Vice-president (US) : Chef/ directeur d’un service
+54. Warehouse : Entrepot
+55. Workshop : Atelier
+56. To write off an operation : Passer une opération par pertes et profits
+57. Accountant: Comptable
+58. Across the board: À tous niveaux, systématiquement
+59. Assets: Actifs
+60. Balance sheet: Bilan comptable
+61. Ballpark figure: Estimation approximative
+62. Benchmark: Point de reference
+63. Bigwig: Personne importante
+64. Bottom line: Résultat final, conclusion
+65. Brainstorming: Se creuser les méninges
+66. Business line: Secteur d'activité
+67. Company: Société de capitaux
+68. Cooperative/coop: Coopérative
+69. Corporation: Entreprise, société
+70. Debt: Dette
+71. Financial analysis: Analyse financière
+72. Financial statement: Bilan financier, rapport annuel
+73. Forecast: Prévisions
+74. General partnership: Société en nom collectif
+75. In the black/red: Être dans le vert/rouge
+76. Income tax: Impôt sur le revenu
+77. Joint stock company: Société par actions
+78. Joint venture: Co-entreprise, entreprise commune
+79. Liabilities: Passif
+80. Limited Liability Company (LLC): Société anonyme (SA)
+81. Limited life: Longévité limitée
+82. Limited Liability Partnership (PLL): Société en commandite
+83. Across the board: À tous niveaux, systématiquement
+84. To buy a stake in: Acheter une participation dans une entreprise
+85. Shareholders UK/ Stockholders US: Actionnaires
+86. Shares UK/Stocks US: Actions
+87. Financial analysis: Analyse financière
+88. To crunch numbers: Analyser des chiffres, statistiques
+89. To write off a debt: Annuler une dette
+90. Non-profit organisation: Association à but non lucratif
+91. To break even: Atteindre le seuil de rentabilité
+92. To get ahead of the game: Avoir une longueur d'avance
+93. Balance sheet: Bilan comptable
+94. Financial statement: Bilan financier, rapport annuel
+95. To settle accounts: Clôturer les comptes
+96. Joint venture: Co-entreprise, entreprise commune
+97. Accountant: Comptable
+98. Minutes: Compte-rendu de réunion
+99. Cooperative/coop: Coopérative
+100. Tax return: Déclaration de revenus
+101. To file for bankruptcy: Déposer son bilan
+102. To dissolve: Dissoudre
+103. To give somebody the green light, go ahead:Donner à quelqu'un son feu vert, accord
+104. To implement: Mettre en œuvre
+105. To manage: Gérer
+106. To monitor: Surveiller, suivre, contrôler
+107. To run: Diriger
+108. To schedule: Planifier, programmer, prévoir
+109. To take over: Prendre le contrôle
+110. To update: Mettre à jour
+111. To upgrade: Moderniser
+112. Top executive: Cadre supérieur
+113. Training: Formation
+114. Turnover: Chiffre d'affaires
+115. Vice President (VP): Vice-président
+116. Briefing: Réunion d'information
+117. Revenues: Revenus
+118. Aer-sales service(s): Service(s) après-vente
+119. Headquarters (HQ) head office: Siège social
+120. Subcontractor: Sous-traitant
+121. Intern: Stagiaire
+122. Branch: Succursale
+123. Line manager: Supérieur immédiat
+124. To monitor: Surveiller, suivre, contrôler
+125. Conference call (confcall): Téléconférence
+126. Vice President (VP): Vice-Président
+127. Apprentice, trainee: Apprenti
+128. Accounting: Comptabilité
+129. Agenda: Ordre du jour
+130. Annual review: Évaluation annuelle
+131. Area manager/representative: Directeur, représentant local
+132. Board of directors: Conseil d'administration
+133. Branch: Succursale
+134. Briefing: Réunion d'information
+135. Business development officer: Agent de développement commercial
+136. Chairman: Président
+137. Chief Executive Officer (CEO) : Président-directeur général (P-DG)
+138. Chief Financial Officer (CFO): Directeur financier
+139. Chief Technical Officer (CTO): Directeur technique
+140. Conference call (confcall): Téléconférence
+141. Day/night shi: Équipe de jour/nuit
+142. Deadline: Date limite
+143. Debt: Dette
+144. Deputy/assistant: Adjoint
+145. Employers: Patronat
+146. Entrepreneur: Entrepreneur
+147. Estimate: Devis, évaluation, estimation
+148. Executive: Cadre
+149. Feedback: Retour
+150. Founder: Fondateur
+151. Funding: Financement
+152. Headquarters (HQ) head office: Siège social
+153. Shareholders (UK)/Stockholders (US): Actionnaires
+154. Deputy/Assistant: Adjoint
+155. Business development officer: Agent de développement commercial
+156. To adjourn/postpone a meeting: Ajourner, reporter une réunion
+157. To cancel: Annuler
+158. Personal assistant (PA): Assistant
+159. Profits: Bénéfices
+160. Consumer goods: Biens de consommation
+161. To budget: Budgétiser
+162. Executive: Cadre
+163. Junior executive: Cadre moyen
+164. Senior Top executive: Cadre supérieur
+165. Headhunter: Chasseur de têtes
+166. Turnover: Chiffre d'affaires
+167. Salesman: Commercial
+168. Estimate: Devis, évaluation, estimation
+169. Manager: Directeur
+170. Public Relations Officer (PRO): Directeur des relations publiques
+171. Human Resources Officer (HRO): Directeur des ressources humaines
+172. Sales manager: Directeur des ventes
+173. Area manager/representative: Directeur, représentant local
+174. Intern: Stagiaire
+175. International/global manager: Responsable, directeur international/mondial
+176. Inventory, stocks: Inventaire
+177. Investment: Investissement
+178. Invoice: Facture
+179. Line manager: Supérieur immédiat
+180. Loan: Prêt
+181. Loss: Perte
+182. Manager: Directeur
+183. Milestone: Étape
+184. Multitasking: Multitâche
+185. Organisation chart: Organigramme
+186. Payroll: Registre du personnel
+187. Personal assistant (PA): Assistant
+188. Profits: Bénéfices
+189. Public Relations Officer (PRO): Directeur des relations publiques
+190. Regional/state/county manager: Responsable régional, au niveau État (US), comté (GB)
+191. Revenues: Revenus
+192. Sales manager: Directeur des ventes
+193. Sample: Échantillon
+194. Senior/top executive: Cadre supérieur
+195. Shareholders (UK)/stockholders (US): Actionnaires
+196. Staff: Personnel
+197. Subcontractor: Sous-traitant
+198. Takeover: Prise de pouvoir
+199. To adjourn/postpone a meeting: Ajourner, reporter une réunion
+200. To budget: Budgétiser
+201. To cancel: Annuler
+202. To run: Diriger
+203. Sample: Échantillon
+204. Entrepreneur: Entrepreneur
+205. Day/night shi: Équipe de jour/nuit
+206. Milestone: Étape
+207. Annual review: Évaluation annuelle
+208. Invoice: Facture
+209. Funding: Financement
+210. Founder: Fondateur
+211. Formation: Training
+212. To manage: Gérer
+213. International/global manager: Responsable, directeur international/mondial
+214. Inventory, stocks: Inventaire
+215. Investment: Investissement
+216. To update: Mettre à jour
+217. To implement: Mettre en oeuvre
+218. To upgrade: Moderniser
+219. Multitasking: Multitâche
+220. Agenda: Ordre du jour
+221. Organigramme: Organisation chart
+222. Employers: Patronat
+223. Staff: Personnel
+224. To schedule: Planifier, programmer, prévoir
+225. To take over: Prendre le contrôle
+226. Chairman: Président
+227. Takeover: Prise de pouvoir
+228. Regional/State/County manager: Responsable régional, au niveau État (US) comté (GB)
+229. Payroll: Registre du personnel
+230. Feedback: Retour
+
+[Cours 2 : La révolution numérique]
+
+1.to power: faire marcher
+2.to process: traiter
+3.to program (in computing): programmer (Informatique)
+4.search engine: moteur de recherche
+5.secured transaction: transaction sécurisée
+6.skill: compétence, métier
+7.soware: logiciel(s)
+8.to subscribe: s'abonner
+9.switch off: se déconnecter
+10. touch screen: écran tactile
+11.upgrade: nouvelle version
+12.to upgrade: améliorer
+13. to update: mettre à jour
+14.up-to-date: le plus récent, moderne
+15.username: identifiant
+16.voice mail, mail box: boîte vocale, messagerie Internet
+17.widget: petit gadget, truc
+18.Wired: branché, câblé
+19.to access a site: accéder à un site
+20.analytics: analyse de données
+21.app/application: appli / application
+22.Attachment: pièce jointe
+23.B2B / Business-to-Business trade: commerce interentreprises
+24.Big Data: données de masse, mégadonnées
+25.blockchain: stockage et transmission de données
+26.to browse the Net: surfer / naviguer sur Internet
+27.broadband: haut débit
+28.C2C/Consumer-to-Consumer trade: transaction(s) entre particuliers
+29.computer chip: puce électronique
+30.cut and paste: copier-coller
+31.cyber thief: pirate de données
+32.cyberthe: vol/piratage de données
+33.cyber security: cybersecurité
+34.data capture/processing: saisie/traitement de données
+35.data flow: flux de données
+36.digital divide: fracture numérique
+37.disclaimer: décharge de responsabilité
+38.disposable: jetable
+39. to download/upload to/from: télécharger vers/depuis (un ordinateur)
+40. e-bill / e-business: facture/commerce électronique
+41. to email sb: envoyer un email/courriel à qqn
+42. to encrypt: crypter
+43.file/data-sharing: partage de dossiers/ données
+44. Hacker: pirate (informatique)
+45.to hack: pirater
+46. to hold a conference call: avoir une conférence téléphonique
+47.Internet / file server: serveur sur Internet
+48. Internet provider: fournisseur d'accès à Internet
+49.junk mail / spam: courrier indésirable, pourriel
+50. to key in /to capture data: saisir des données
+51.keyboard: clavier
+52. to mine data: extraire des données
+53.online auction site: site d'enchères en ligne
+54.to operate / to power: activer, faire fonctionner
+55.to order online: commander en ligne
+56.password: mot de passe
+57.piracy / hacking: Piratage
+
+[Cours 3 : L’entreprise citoyenne]
+
+1. accountable: (légalement) responsable , qui doit rendre des comptes
+2. to adapt to the times: s'adapter à l'époque
+3. to behave ethically: agir de façon éthique
+4. brand image: image de marque
+5. brand loyalty: fidélité à une marque
+6. to build up customer loyalty: fidéliser la clientèle
+7. built-in obsolescence: obsolescence programmée
+8. business ethics: éthique en affaires
+9. carbon footprint: empreinte carbone
+10. cause marketing: marketing engagé
+11. to be committed to: être engagé à
+12. commitment: engagement
+13. consumer: consommateur
+14. to contribute to: contribuer à
+15. CSR (Corporate Social Responsibility): RSE (Responsabilité Sociale des Entreprises)
+16. Customer / client: client
+17. ecolabel: label vert
+18. employee: employé / salarié
+19. to ensure: garantir
+20. environmentally-friendly: écologique / qui respecte l'environnement
+21. ethical investment: investissement
+22. ethically-minded: qui comporte une dimension éthique
+23. ethics: l'éthique
+24. goods / wares: marchandises
+25. green-washing: écoblanchiment
+26. to implement CSR: mettre en oeuvre / en pratique la RSE
+27. to implement a policy: mettre en place une mesure / une politique
+28. to improve quality: améliorer la qualité
+29. industrial dispute: conflit social
+30. industrial tribunal: conseil de prud'hommes
+31. investor: investisseur
+32. to launch a campaign: lancer une campagne
+33. to look for solutions: rechercher des solutions
+34. loyalty: loyauté, fidélité
+35. to file a complaint: faire une réclamation
+36. to meet expectations: satisfaire des attentes
+37. to mislead consumers: tromper les consommateurs
+38. to participate in: participer à
+39. partner: associé
+40. principle: principe
+41. profits: bénéfices financiers
+42. progressive cause: cause progressiste
+43. prospective customer: client potentiel
+44. quality standard: norme de qualité
+45. to raise awareness: faire prendre conscience
+46. reliable: fiable
+
+[Cours 4 : Stratégie et compétitivité d'une
+entreprise]
+
+1. To allocate resources : affecter des ressources
+2. To appoint : nommer (à un poste)
+3. Appointment Nomination; rendez-vous
+4. To balance : Compenser, contrebalancer, équilibrer
+5. Balance sheet : Bilan
+6. Bottom line : Resultat financier
+7. Branch : Filiale, succursale
+8. To chart a strategy : Planifier une stratégie
+9. To close down : Fermer( ses portes )
+10. Competitive advantage/ edge : Avantage compétitif/ concurrentiel
+11. Corporate/ company manager : Chef d’entreprise
+12. Cost-effectiveness : Rentablilite
+13. Costing : Estimation du prix de revient
+14. Creative destruction : Destruction creatrice
+15. To cut/ cut back : Supprimer; reduire
+16. Cut/ cutback : Compression; reduction; suppression
+17. Decision making : Prise de decision
+18. To devise : Concevoir
+19. To differentiate : (se) differencier, faire une difference
+20. To display managerial skills : Montrer des qualités de manager
+21. To downsize : réduire les effectifs
+22. Drive : Dynamisme, énergie
+23. Efficient : Efficace, performant
+24. Empowerment : Responsabilisation, dynamisation
+25. Facilities : Installations, infrastructure
+26. Flourishing/ thriving : Florissant, prospere
+27. To focus : (se) concentrer
+28. To foresee : Prévoir; anticiper
+29. Foresight : Vision (de l’avenir )
+30. To hire/ recruit/ take on sb : Embaucher qqn
+31. In charge of/ responsible for : responsable de, en charge de
+32. Incentive : Stimulation, encouragement
+33. Job cut : Suppression d’emploi
+34. Joint management : Congestion
+35. To launch : Lancer
+36. To lay off/ dismiss/ make redundant : Licencier
+37. Management by objectives : management par objectifs
+38. To orient : Orienter
+39. Output : Rendement; productivite
+40. To outsource/ subcontract : Externaliser/ sous-traiter
+41. Performance : Resultats
+42. To plan : Prévoir, organiser, planifier
+43. To promote : Promouvoir
+44. To provide for/ foresee : Prevoir
+45. To relocate : Delocalo\iser
+46. To rely on : Compter sur
+47. Return on investment : Retour sur investissement
+48. To run/ operate a business : Diriger/ faire marcher une affaire
+49. Scope : Envergure, portée, objectifs, périmètre d’action
+50. Schedule/plan/ agenda : Plan, programme d’action
+51. Struggling : En difficulte
+52. To turn around : Redresser
+53. Turnover/ revenir : Chiffre d’affaires
+54. Uncompetitive : Non competitif
+55. To undercut compétition : Offrir des prix inférieurs à ceux des concurrents
+56. Enterprising: Entreprenant
+57. Fringe benefit: Avantage en nature
+58. Goal oriented: Fixé sur les objectifs
+59. High flyer: Réussit, vise haut
+60. Human capital: Capital humain, valeur
+61. du personnel
+62. In the works: En développement
+63. Incentive: Incitation, encouragement
+64. Key outcome indicators (KOI): Indicateurs clés de résultats
+65. Key performance indicators (KPI): Indicateurs clésde performance
+66. Lagging/leading indicators: Indicateurs de retard/d'avance
+67. Leverage: Effet de levier, influence
+68. Operational alignment: Alignement des activités sur les objectifs
+69. Operational management: Gestion des performances
+70. Pen pusher:Gratte-papier
+71. People person: Sociable, aime les gens
+72. Performance drivers:Facteurs de performance
+73. Perk: Avantage
+74. Redundancy: Licenciement redondance
+75. Risk prone/risk averse: Prendre/fuir les risques
+76. Roadmap: Feuille de route
+77. Rotten apple: Brebis galeuse
+78. Skill set: Gamme de compétences
+79. Slacker: Fainéant
+80. Smart alec: Madame/Monsieur Je-Sais-Tout
+81. State of the art: De pointe
+82. Target: Objectif, cible
+83. Team player: Avoir l'esprit d'équipe
+84. Threshold level: Niveau seuil
+85. To be on the same page: Être sur la même longueur d'onde
+86. To boil the ocean: Faire l'impossible
+87. To carve out a niche market: Se tailler un créneau spécial sur le marché
+88. To corner the market: Dominer le marché
+89. To touch base with somebody: Contacter quelqu'un
+90. To resign, give one's notice/resignation: Démissionner, donner sa démission
+91. Performance gap: Écart de performance
+92. Leverage: Effet de levier, influence
+93. Employment/Unemployment: Emploi/Chômage
+94. In the works: En développement
+95. Committed: Engagé, dévoué
+96. To hire, recruit, appoint enrol: Engager, recruter, nommer, enroler
+97. To set/have/get one's ducks in a row: Être bien préparé, organisé pour se lancer
+98. To think outside the box: Être créatif, penser différemment
+99. To be on the same page: Être sur la même longueur d'onde
+100. Scalable: Évolutif
+101. To run something up the flagpole: Expérimenter, tester
+102. Critical success factor: Facteur critique de réussite
+103. Performance drivers: Facteurs de performance
+104. Slacker: Fainéant
+105. To get the ball rolling: Faire avancer les choses
+106. To push a product: Faire la promotion d'un produit
+107. To get heads rolling: Faire rouler des têtes
+108. Roadmap:Feuille de route
+109. Goal oriented: Fixé sur les objectifs
+110. To gain/lose ground: Gagner/perdre du terrain
+111. Skill set: Gamme de compétences
+112. Operational management: Gestion des performances
+113. Business performance management: Gestion du rendement des activités
+114. Incentive: Incitation, encouragement
+115. Key performance indicators (KPI): Indicateurs clés de performance
+116. Key outcome indicators (KOI): Indicateurs clés de résultats
+117. Indicateurs de retard/ d'avance: Lagging/leading indicators
+118. To fire, sack, dismiss: Licencier, congédier, renvoyer
+119. To gain/lose ground: Gagner/perdre du terrain
+120. To hire, recruit, appoint, enrol: Engager, recruter, nommer
+121. To jump off the shelves: Bien se vendre
+122. To pick a low hanging fruit: Obtenir des gains, succès faciles
+123. To push a product: Faire la promotion d'un produit
+124. To run something up the flagpole: Expérimenter, tester
+125. To sell like hotcakes: Se vendre comme des petits pains
+126. To set/have/get one's ducks in a row : Etre bien préparé, organisé pour se lancer
+127. To slash prices: Casser les prix
+128. To strike while the iron is hot: Battre le fer quand il est chaud
+129. To test the waters: Tester avant de se lancer
+130. To touch base with somebody: Contacter quelqu'un
+131. To work one's fingers to the bone: Travailler très dur
+132. To wrap one's head around sth: Se plonger, réfléchir sur
+133. Unique selling position (USP) : Position commerciale unique
+134. Whistleblower: Lanceur d'alerte
+135. Whiz kid: Jeune prodige
+136. Win-win situation: Situation avantageuse, gagnante
+137. Whiz kid: Jeune prodige
+138. Whistleblower: Lanceur d'alerte
+139. Redundancy: Licenciement, redondance
+140. To fire, sack, dismiss: Licencier, congédier, renvoyer
+141. Lone wolf: Loup solitaire
+142. Smart alec: Madame/Monsieur Je-Sais-Tout
+143. Threshold level: Niveau seuil
+144. Target: Objectif, cible
+145. To pick a low hanging fruit: Obtenir des gains, succès faciles
+146. Business plan: Plan d'activités
+147. Unique selling position (USP): Position commerciale unique
+148. Risk prone/risk averse: Prendre/fuir les risques
+149. Business forecast: Prévision d'activités, chiffres, cibles
+150. Bonus: Prime
+151. To eat your own dog food: Promouvoir, utiliser son propre produit
+152. To punch the puppy: Quelque chose de néfaste pour l'entreprise
+153. High flyer: Réussit, vise haut
+154. To wrap one's head around something: Se plonger, réfléchir sur
+155. To sell like hotcakes: Se vendre comme des petits pains
+156. Win-win situation: Situation avantageuse, gagnante
+157. People person: Sociable, aime les gens
+158. Balanced Scorecard: Tableau de bord prospectif
+159. To test the waters: Tester avant de se lancer
+160. To work one's fingers to the bone: Travailler très dur
+161. Hard sell: Vente aggressive
+162. Balanced Scorecard: Tableau de bord prospectif
+163. Benchmarking: Comparer les techniques de gestion d'autres entreprises
+164. Bonus: Prime
+165. Business forecast: Prévision d'activités, chiffres, cibles
+166. Business performance management: Gestion du rendement des activités
+167. Business plan: Plan d'activités
+168. Committed: Engagé, dévoué
+169. Competitive: Compétitif
+170. Core competency: Compétence de base, coeur de métier
+171. Critical success factor: Facteur critique de réussite
+172. Eager beaver: Bourreau de travail, bosseur
+173. Employment/ Unemployment: Emploi/Chômage
+174. Operational alignment: Alignement des activités sur les objectifs
+175. Number cruncher: As avec les chiffres
+176. Perk: Avantage
+177. Team player: Avoir l'esprit d'équipe
+178. To strike while the iron is hot: Battre le fer quand il est chaud
+179. To jump off the shelves: Bien se vendre
+180. Eager beaver: Bourreau de travail, bosseur
+181. Rotten apple: Brebis galeuse
+182. Human capital: Capital humain, valeur du personnel
+183. To slash prices: Casser les prix
+184. Benchmarking: Comparer les techniques de gestion
+185. Core competency: Compétence de base, coeur de métier
+186. Competitive: Compétitif
+187. to allocate resources: affecter des ressources
+188. to appoint: nommer (à un poste)
+189. appointment: nomination; rendez-vous
+190. to balance: compenser, contrebalancer, équilibrer
+191. balance sheet: bilan
+192. bottom line: résultat financier
+193. branch: filiale, succursale
+194. to chart a strategy: planifier une stratégie
+195. to close down: fermer (ses portes)
+196. competitive advantage / edge: avantage compétitif/ concurrentiel
+197. corporate / company manager: chef d'entreprise
+198. cost-effectiveness: rentabilité
+199. costing: estimation du prix de revient
+200. creative destruction: destruction créatrice
+201. to cut / cut back: supprimer; réduire
+202. cut/cutback: compression; réduction ; suppression
+203. decision making: prise de décision
+204. to devise: concevoir
+205. to differentiate: (se) différencier, faire une différence
+206. to display managerial skills: montrer des qualités de manager
+207. to downsize: réduire les effectifs
+208. drive: dynamisme, énergie
+209. efficient: efficace, performant
+210. empowerment: responsabilisation; dynamisation
+211. facilities: installations, infrastructures
+212. flourishing / thriving: florissant, prospère
+213. to focus: (se) concentrer
+214. to foresee: prévoir; anticiper
+215. foresight: vision (de l'avenir)
+216. to hire / recruit / take on sb: embaucher qan
+217. in charge of/ responsible for: responsable de, en charge de
+218. incentive: stimulation, encouragement
+219. job cut: suppression d'emploi
+220. joint management: co-gestion
+221. to lay off/ dismiss / make redundant: licencier
+222. management by objectives: management par objectifs
+223. market segment/ dynamics: segment/ dynamique de marché
+224. to orient: orienter
+225. output: rendement; productivité
+226. to outsource / subcontract: externaliser / sous-traiter
+227. performance: résultats
+228. to plan: prévoir, organiser, planifier
+229. to promote: promouvoir
+230. to provide for / foresee: prévoir
+231. to relocate: délocaliser
+232. to rely on: compter sur
+233. return on investment: retour sur investissement
+234. to run / operate a business: diriger / faire marcher une affaire
+235. scope: envergure, portée, objectifs, périmètre d'action
+236. schedule/plan/agenda: plan, programme d'action
+237. struggling: en difficulté
+238. to turn around: redresser
+239. turnover / revenue: chiffre d'affaires
+240. uncompetitive: non compétitif
+241. to undercut competition: offrir des prix inférieurs à ceux des concurrents
+
+[Cours 5 : L’économie sociale et solidaire]
+
+1. Activist : Militant
+2. Alternative currency : Devise alternative
+3. Access to health care : Accès aux soins de santé
+4. Barter system : Systeme de troc
+5. To benefit society : Profiter a la societe
+6. To benefit from : Profiter de
+7. Boycott campaign : Campagne de boycott
+8. To bridge a gap : Combler un fossé
+9. To call into question : Remettre en question
+10. Cause marketing : marketing de cause sociale ou humanitaire
+11. Charity : Organisme caritatif
+12. Commitment : Engagement
+13. Crowdfunding : Financement participatif
+14. CSR ( Corporate Social Responsibility ) : RSE ( responsabilité sociale de l'entreprise)
+15. To donate money : Faire un don d’argent
+16. Economic problem : Problème économique
+17. The economy : l’economie
+18. Egalitarian : egalitaire
+19. To empower : Autonomiser, émanciper
+20. Empowerment : Autonomisation
+21. Environmental awareness/ challenge : Conscience/ défi écologique
+22. Environmental footprint : Empreinte écologique
+23. Equal in rights : Egaux en droits
+24. Ethical investment : Investissement éthique
+25. To foster solidarity : Favoriser la solidarité
+26. Fundraising : Levee de fonds
+27. To involve local actors : Impliquer des acteurs locaux
+28. To lend money : Prêter de l’argent
+29. Moneyless trading : Commerce sans argent
+30. NGO ( Non-governmental organisation ) : ONG
+31. To overcome inequalities : Surmonter les inegalites
+32. To pool skills : Mutualiser des compétences
+33. Peer lending : Pret(s) entre pairs
+34. To reduce inequalities : Reduire les inegalités
+35. To raise awareness : Faire prendre conscience
+36. To raise funds : Lever des fonds
+37. Self-help group : Groupe d'entraide
+38. To set up a cooperative : Monter une coopérative
+39. To share : Partager
+40. Social entrepreneurship : Entrepreneuriat social
+41. Social benefit/ businesses : Prestation sociale/ entreprises sociales
+42. Sustainability : Durabilite
+43. Sustainable economy : économie durable
+44. Stakeholder : Partie prenante
+45. Value : Valeur
+46. To volunteer : Faire du bénévolat
+47. Volunteering : Benevolat
+48. To widen a gap : Creuser un fossé
+49. activist: militant
+50. alternative currency: devise alternative
+51. access to health care: accès aux soins de santé
+52. barter system: système de troc
+53. to benefit society: profiter à la société
+54. to benefit from: profiter de
+55. boycott campaign: campagne de boycott
+56. to bridge a gap: combler un fossé
+57. to call into question: remettre en question
+58. cause marketing: marketing de cause sociale ou humanitaire
+59. charity: organisme caritatif
+60. commitment: engagement
+61. crowdfunding: financement participatif
+62. CSR (Corporate Social Responsibility): RSE (responsabilité sociale de l'entreprise)
+63. to donate money: faire un don d'argent
+64. economic problem: problème économique
+65. the economy: l'économie
+66. egalitarian: égalitaire
+67. to empower: autonomiser, émanciper
+68. empowerment: autonomisation
+69. environmental awareness / challenge: conscience / défi écologique
+70. environmental footprint: empreinte écologique
+71. equal in rights: égaux en droits
+72. ethical investment: investissement éthique
+73. to foster solidarity: favoriser la solidarité
+74. fundraising: levée de fonds
+75. to involve local actors: impliquer des acteurs locaux
+76. to lend money: prêter de l'argent
+77. moneyless trading: commerce sans argent
+78. NGO (Non-Governmental Organisation): ONG
+79. to overcome inequalities: surmonter les inégalités
+80. to pool skills: mutualiser des compétences
+81. peer lending: prêt(s) entre pairs
+82. to reduce inequalities: réduire les inégalités
+83. to raise awareness: faire prendre conscience
+84. to raise funds: lever des fonds
+85. self-help group: groupe d'entre-aide
+86. to set up a cooperative: monter une coopérative
+87. to share: partager
+88. social entrepreneurship: entrepreneuriat social
+89. social benefit /businesses: prestation sociale / entreprises sociales
+90. sustainability: durabilité
+91. sustainable economy: économie durable
+92. stakeholder: partie prenante
+93. value: valeur
+94. to volunteer: faire du bénévolat
+95. volunteering: bénévolat
+96. to widen a gap: creuser un fossé
+
+[Cours 6 : Conditions de travail et dialogue
+social]
+
+1. To address problems/ an issue : s’occuper de problèmes/ d’une question
+2. To agree on wages : Se mettre d’accord sur les salaires
+3. Automation : Automatisation
+4. To axe jobs : Supprimer des emplois
+5. To be out of work/ unemployed : être au chômage
+6. Bargaining : Negociations
+7. Bore Out : Épuisement professionnel par ennui
+8. Burnout : Epuisement
+9. Collective bargaining : negociations collectives
+10. To commute : Faire les trajets pour aller à son travail
+11. Danger money : Prime de risque
+12. Day off : Jour de congé
+13. Employees' rights : Droit des employés
+14. Employment contract : Contrat d’embauche
+15. Empowerment : Emancipation, automisation
+16. To fear layoffs : Craindre des licenciements
+17. Fixed-term work : Contrat a duree determinee
+18. Flexitime : Horaire a la carte/ variable
+19. Full time/ part time work : Travail à temps plein/ partiel
+20. Gender pay gap : le fosse salarial homme-femme
+21. To go on strike : Faire greve
+22. Holidays with pay : Conges payes
+23. Hourly rates : Taux Horaires
+24. Inclusiveness : Inclusion, non exclusion
+25. Industrial umpire : Arbitre du dialogue social
+26. Health hazards : Risques liés au travail
+27. Job losses/ cuts : Suppressions d’emplois
+28. Job security : Sécurité de l’emploi
+29. Job sharing : Partage du travail
+30. Labour dispute : Conflit social
+31. Labour laws/ talks : Droit du travail/ négociations de travail
+32. To lay off/ make redundant : Licencier
+33. Living income : Revenu ,minimum vital
+34. Minimum wage : Salaire minimum
+35. Occupation : Metier
+36. Overtime : Heures supplémentaires
+37. Parental leave : Conge parental
+38. Pay cut/ rise : Réduction/ hausse de salaire
+39. Pay disput : Conflit salarial
+40. Permanent contract : Contrat a duree indeterminee
+41. Representative : Représentant (un)
+42. Safety : Securite
+43. Schedule : Horaire, programme
+44. Seasonal work : Travail saisonnier
+45. To be self employed : Travailler à son compte
+46. Sick leave : Congé maladie
+47. Social partner : Partenaire social
+48. To take legal action : Intenter une action en justice
+49. Telecommuting/ teleworking : Teletravail
+50. Time off : Conges
+51. Union : Syndicat
+52. Wage growth/ rise : Croissance/ augmentation des salaires
+53. Wage rise : Augmentation de salaires
+54. To walk out : Claquer la porte
+55. To work long hours : Faire de longues journées
+56. To work overtime : Faire des heures supplémentaires
+57. Work patterns : Modes de travail
+58. Workload : Charge de travail
+59. Working time regulations : Réglementation du temps de travail
+60. Zero-hour contract : Contrat à la tâche/ zéro heures
+61. to address problems / an issue: s'occuper de problèmes / d'une question
+62. to agree on wages: se mettre d'accord sur les salaires
+63. automation: automatisation
+64. to axe jobs: supprimer des emplois
+65. to be out of work / unemployed: être au chômage
+66. bargaining: négociations
+67. boreout: épuisement professionnel par ennui
+68. burnout: épuisement
+69. collective bargaining: négociations collectives
+70. to commute: faire les trajets pour aller à son travail
+71. danger money: prime de risque
+72. day off: jour de congé
+73. employees' rights: droit des employés
+74. employment contract: contrat d'embauche
+75. empowerment: émancipation, autonomisation
+76. to fear layoffs: craindre des licenciements
+77. fixed-term work: contrat à durée déterminée
+78. flexitime: horaire à la carte / variable
+79. full-time / part-time work: travail à temps plein / partiel
+80. gender pay gap: le fossé salarial homme-femme
+81. to go on strike: faire grève
+82. holidays with pay: congés payés
+83. hourly rates: taux horaires
+84. inclusiveness: inclusion, non exclusion
+85. industrial umpire: arbitre du dialogue social
+86. health hazards: risques liés au travail
+87. job losses / cuts: suppressions d'emplois
+88. job security: sécurité de l'emploi
+89. job sharing: partage du travail
+90. labour dispute: conflit social
+91. labour laws/talks: droit du travail / négociations de travail
+92. to lay off/ make redundant: licencier
+93. living income: revenu minimum vital
+94. minimum wage: salaire minimum
+95. occupation: métier
+96. overtime: heures supplémentaires
+97. parental leave: congé parental
+98. pay cut/rise: réduction / hausse de salaire
+99. pay dispute: conflit salarial
+100. permanent contract: contrat à durée indéterminée
+101. representative: représentant (un)
+102. safety: sécurité
+103. schedule: horaire, programme
+104. seasonal work: travail saisonnier
+105. to be self-employed: travailler à son compte
+106. sick leave: congé maladie
+107. social partner: partenaire social
+108. to take legal action: intenter une action en justice
+109. telecommuting / teleworking: télétravail
+110. time off: congés
+111. union: syndicat
+112. wage growth /rise: croissance / augmentation des salaires
+113. wage rise: augmentation de salaires
+114. to walk out: claquer la porte
+115. to work long hours: faire de longues journées
+116. to work overtime: faire des heures supplémentaires
+117. work patterns: modes de travail
+118. workload: charge de travail
+119. zero-hour contract: contrat à la tâche / zéro heures
+
+[Cours 7 : Communication et culture
+d’entreprise]
+
+1. to achieve: accomplir
+2. ad placement: placement publicitaire
+3. advertiser; ad(vertisement): un publicitaire ; une publicité)
+4. aer-sales service: service après-vente
+5. bashtag: dénigrement sur les réseaux
+6. brand building: campagne de notoriété
+7. brand image/name: image / nom de marque
+8. branding: positionnement d'une marque
+9. to boost morale: renforcer le moral
+10. to build a relationship: construire une relation
+11. clickbait: piège à clic
+12. to convey: faire comprendre, transmettre
+13. corporate behaviour (GB) / behavior (US): comportement de l'entreprise
+14. crisis management: gestion de crise
+15. to damage: nuire à, endommager
+16. damage control: limitation des dégâts
+17. to deceive; deception: tromper; tromperie
+18. to emphasize, highlight, underline: souligner
+19. to ensure: garantir
+20. feedback: retour
+21. to get in touch with: contacter
+22. greenwashing: blanchiment écologique
+23. guideline: directive, principe
+24. to handle a crisis: gérer une crise
+25. to harm: faire du mal à
+26. to improve: améliorer
+27. influencer marketing: marketing des influenceurs
+28. to lobby: faire du lobbying
+29. to lose control over: perdre le contrôle sur
+30. loyalty: fidélité
+31. the media: les médias
+32. misleading: mensonger
+33. to monitor content: contrôler un contenu
+34. opinion survey: sondage
+35. to prosper:être florissant
+36. publicity: publicité, renommée
+37. to reinforce / to enhance: renforcer
+38. reliable: fiable
+39. responsibility: responsabilité
+40. to share: partager
+41. to smear: salir, calomnier
+42. social media outlet: plateforme de réseau social
+43. to solve a problem: résoudre un problème
+44. spin doctor: expert en relations publiques
+45. spokesperson: porte-parole
+46. to spread word of mouth: faire du bouche à oreille
+47. talent management: gestion des talents
+48. to target: cibler
+49. to tarnish: ternir
+50. tracking: pistage des internautes
+51. to trust; (un)trustworthy: faire confiance à; (non) fiable
+52. update: mise à jour
+53. value: valeur
+54. to walk the talk: faire ce qu'on a annoncé
